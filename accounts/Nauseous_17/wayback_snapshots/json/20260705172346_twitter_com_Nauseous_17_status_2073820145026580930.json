@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054912328978817024",
+    "conversation_id": "2073820145026580930",
+    "created_at": "2026-07-05T17:23:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:23:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073820145026580930"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Nauseous_17/st…",
+          "end": 176,
+          "expanded_url": "https://twitter.com/Nauseous_17/status/2073661743889568110",
+          "start": 153,
+          "url": "https://t.co/gBrGcguGxl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073820145026580930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073661743889568110",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "总结：不建议 是真的 但效果因人而异 可能会有内幻 但个人认为dmt不是主要原因 在我的学科认知里人体很难甚至不太可能产生致幻剂量的dmt \n个人认为幻觉原因是感官剥夺 长达3-5h的感官剥夺仅仅只算入门级 上不了太高的高原 我就是个臭毒虫不是修佛教的 我完全没耐心 我直接吸dmt不就得了 爽多了快多了 https://t.co/gBrGcguGxl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054912328978817024",
+        "conversation_id": "2073820145026580930",
+        "created_at": "2026-07-05T17:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073820145026580930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nauseous_17/st…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/Nauseous_17/status/2073661743889568110",
+              "start": 153,
+              "url": "https://t.co/gBrGcguGxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073820145026580930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073661743889568110",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "总结：不建议 是真的 但效果因人而异 可能会有内幻 但个人认为dmt不是主要原因 在我的学科认知里人体很难甚至不太可能产生致幻剂量的dmt \n个人认为幻觉原因是感官剥夺 长达3-5h的感官剥夺仅仅只算入门级 上不了太高的高原 我就是个臭毒虫不是修佛教的 我完全没耐心 我直接吸dmt不就得了 爽多了快多了 https://t.co/gBrGcguGxl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054912328978817024",
+        "conversation_id": "2073661743889568110",
+        "created_at": "2026-07-05T06:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073661743889568110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/efubiku/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/efubiku/status/2073573027661623416",
+              "start": 14,
+              "url": "https://t.co/OJY44l7rJq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073661743889568110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5207,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073573027661623416",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽这个是真的吗 等我试试 https://t.co/OJY44l7rJq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "第二账号 随缘回fo啦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/AjBpCjFKeY"
+              }
+            ]
+          }
+        },
+        "id": "2054912328978817024",
+        "location": "Hopelessly free",
+        "name": "十七Nauseous",
+        "pinned_tweet_id": "2055265228334739510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067675245201563648/LId8p_ka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 123,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 207
+        },
+        "url": "https://t.co/AjBpCjFKeY",
+        "username": "Nauseous_17",
+        "verified": false
+      }
+    ]
+  }
+}

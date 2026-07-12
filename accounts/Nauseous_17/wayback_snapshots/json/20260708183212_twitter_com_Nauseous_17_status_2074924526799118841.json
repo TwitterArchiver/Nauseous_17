@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054912328978817024",
+    "conversation_id": "2074848808203379033",
+    "created_at": "2026-07-08T18:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T19:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074924526799118841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1829548387936681984",
+          "start": 0,
+          "username": "Othercypl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074924526799118841",
+    "in_reply_to_user_id": "1829548387936681984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074890312795947056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Othercypl 啊啊啊啊啊啊啊没有说你宝贝我是说那种带个整头像都是\"😍\"这个emoji的 看着有点生理性反胃  引起其他人误会我忏悔啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054912328978817024",
+        "conversation_id": "2074848808203379033",
+        "created_at": "2026-07-08T18:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T19:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074924526799118841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1829548387936681984",
+              "start": 0,
+              "username": "Othercypl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074924526799118841",
+        "in_reply_to_user_id": "1829548387936681984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074890312795947056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Othercypl 啊啊啊啊啊啊啊没有说你宝贝我是说那种带个整头像都是\"😍\"这个emoji的 看着有点生理性反胃  引起其他人误会我忏悔啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829548387936681984",
+        "conversation_id": "2074848808203379033",
+        "created_at": "2026-07-08T16:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074890312795947056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054912328978817024",
+              "start": 0,
+              "username": "Nauseous_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074890312795947056",
+        "in_reply_to_user_id": "2054912328978817024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074854393359556908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nauseous_17 请不要烦我😢我虽然带了个鸽子🕊️emoji头象 我罪该万死 但是我主页真的是很无聊的傻逼日常 ..不要讨厌窝..😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "是的我是十七 第二账号 随缘回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/AjBpCjFKeY"
+              }
+            ]
+          }
+        },
+        "id": "2054912328978817024",
+        "location": "Hopelessly free",
+        "name": "十七Nauseous",
+        "pinned_tweet_id": "2055265228334739510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067675245201563648/LId8p_ka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 130,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 228
+        },
+        "url": "https://t.co/AjBpCjFKeY",
+        "username": "Nauseous_17",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T15:55:13.000Z",
+        "description": "08 17河北苦命高中生/重抑中焦/od/不键政/互fo\n可以称呼为我鸽子，鸽子神万岁！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/otherb1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/otherb1",
+                "start": 0,
+                "url": "https://t.co/02ZX2AOpC1"
+              }
+            ]
+          }
+        },
+        "id": "1829548387936681984",
+        "location": "石家庄",
+        "name": "OtherB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063101517180317696/v-47W4Nc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 163,
+          "like_count": 1043,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 315
+        },
+        "url": "https://t.co/02ZX2AOpC1",
+        "username": "Othercypl",
+        "verified": false
+      }
+    ]
+  }
+}

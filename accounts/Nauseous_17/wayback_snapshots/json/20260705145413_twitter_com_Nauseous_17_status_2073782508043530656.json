@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054912328978817024",
+    "conversation_id": "2073782508043530656",
+    "created_at": "2026-07-05T14:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073782508043530656"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Easter_buny/st…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/Easter_buny/status/2071896324413456632",
+          "start": 25,
+          "url": "https://t.co/8zkSZVcZjz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073782508043530656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071896324413456632",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "actually大麻联用任何物质都非常容易出幻觉 https://t.co/8zkSZVcZjz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054912328978817024",
+        "conversation_id": "2073782508043530656",
+        "created_at": "2026-07-05T14:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073782508043530656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Easter_buny/st…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/Easter_buny/status/2071896324413456632",
+              "start": 25,
+              "url": "https://t.co/8zkSZVcZjz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073782508043530656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071896324413456632",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "actually大麻联用任何物质都非常容易出幻觉 https://t.co/8zkSZVcZjz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2071896324413456632",
+        "created_at": "2026-06-30T09:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071896324413456632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071896324413456632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4054,
+          "like_count": 32,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "weed和pr，这两个一起居然能出幻觉，啊？身体如果一直保持一个姿势，我就会感受不到身体 石化了的感觉，做奇怪姿势大脑都感觉不到累，不对是身体，我脑子也开始麻了，一切事物变得好大，我有点失控"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "第二账号 随缘回fo啦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/AjBpCjFKeY"
+              }
+            ]
+          }
+        },
+        "id": "2054912328978817024",
+        "location": "Hopelessly free",
+        "name": "十七Nauseous",
+        "pinned_tweet_id": "2055265228334739510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067675245201563648/LId8p_ka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 121,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 203
+        },
+        "url": "https://t.co/AjBpCjFKeY",
+        "username": "Nauseous_17",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8404,
+          "following_count": 1243,
+          "like_count": 66687,
+          "listed_count": 8,
+          "media_count": 3074,
+          "tweet_count": 18972
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054912328978817024",
+    "conversation_id": "2073549872796721472",
+    "created_at": "2026-07-04T23:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T00:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073549872796721472"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YuwenMewo/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/YuwenMewo/status/2073413147218825530",
+          "start": 5,
+          "url": "https://t.co/bZn8MvZiT3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073549872796721472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073413147218825530",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "《药娘》 https://t.co/bZn8MvZiT3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2073413133809623040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMY-QoFaIAA2kR1.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054912328978817024",
+        "conversation_id": "2073549872796721472",
+        "created_at": "2026-07-04T23:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T00:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073549872796721472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YuwenMewo/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/YuwenMewo/status/2073413147218825530",
+              "start": 5,
+              "url": "https://t.co/bZn8MvZiT3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073549872796721472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073413147218825530",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《药娘》 https://t.co/bZn8MvZiT3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073413133809623040"
+          ]
+        },
+        "author_id": "2063957681984225280",
+        "conversation_id": "2073413147218825530",
+        "created_at": "2026-07-04T14:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073413147218825530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XgxnsCKZ5y",
+              "end": 40,
+              "expanded_url": "https://x.com/YuwenMewo/status/2073413147218825530/photo/1",
+              "media_key": "3_2073413133809623040",
+              "start": 17,
+              "url": "https://t.co/XgxnsCKZ5y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073413147218825530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1125,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈想撸个管子看个片搜到清正了 https://t.co/XgxnsCKZ5y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "第二账号 随缘回fo啦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/AjBpCjFKeY"
+              }
+            ]
+          }
+        },
+        "id": "2054912328978817024",
+        "location": "Hopelessly free",
+        "name": "十七Nauseous",
+        "pinned_tweet_id": "2055265228334739510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067675245201563648/LId8p_ka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 110,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 184
+        },
+        "url": "https://t.co/AjBpCjFKeY",
+        "username": "Nauseous_17",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2073438230272422152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 51,
+          "like_count": 165,
+          "listed_count": 5,
+          "media_count": 540,
+          "tweet_count": 1387
+        },
+        "url": "",
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

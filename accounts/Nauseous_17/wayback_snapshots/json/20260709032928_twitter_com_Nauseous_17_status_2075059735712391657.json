@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054912328978817024",
+    "conversation_id": "2074848808203379033",
+    "created_at": "2026-07-09T03:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T04:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075059735712391657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2053449441151963147",
+          "start": 0,
+          "username": "Wbxyztk51a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075059735712391657",
+    "in_reply_to_user_id": "2053449441151963147",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075034518655000720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wbxyztk51a 好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054912328978817024",
+        "conversation_id": "2074848808203379033",
+        "created_at": "2026-07-09T03:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T04:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075059735712391657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053449441151963147",
+              "start": 0,
+              "username": "Wbxyztk51a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075059735712391657",
+        "in_reply_to_user_id": "2053449441151963147",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075034518655000720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wbxyztk51a 好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053449441151963147",
+        "conversation_id": "2074848808203379033",
+        "created_at": "2026-07-09T01:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075034518655000720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054912328978817024",
+              "start": 0,
+              "username": "Nauseous_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075034518655000720",
+        "in_reply_to_user_id": "2054912328978817024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074848808203379033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nauseous_17 宝宝我想进晚自习——给你发不了私信我在评论区说好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "是的我是十七 第二账号 随缘回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/AjBpCjFKeY"
+              }
+            ]
+          }
+        },
+        "id": "2054912328978817024",
+        "location": "Hopelessly free",
+        "name": "十七Nauseous",
+        "pinned_tweet_id": "2055265228334739510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067675245201563648/LId8p_ka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 130,
+          "like_count": 383,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 231
+        },
+        "url": "https://t.co/AjBpCjFKeY",
+        "username": "Nauseous_17",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T12:19:12.000Z",
+        "description": "餐券女/od/ed/穿孔/重抑中焦/同类互fo/lgbt全友好",
+        "id": "2053449441151963147",
+        "name": "udxwb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058071329350500353/-dINbnWc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 28,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 111
+        },
+        "url": "",
+        "username": "Wbxyztk51a",
+        "verified": false
+      }
+    ]
+  }
+}

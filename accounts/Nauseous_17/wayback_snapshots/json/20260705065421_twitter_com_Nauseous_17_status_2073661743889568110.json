@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054912328978817024",
+    "conversation_id": "2073661743889568110",
+    "created_at": "2026-07-05T06:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T07:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073661743889568110"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/efubiku/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/efubiku/status/2073573027661623416",
+          "start": 14,
+          "url": "https://t.co/OJY44l7rJq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073661743889568110",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073573027661623416",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽这个是真的吗 等我试试 https://t.co/OJY44l7rJq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054912328978817024",
+        "conversation_id": "2073661743889568110",
+        "created_at": "2026-07-05T06:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073661743889568110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/efubiku/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/efubiku/status/2073573027661623416",
+              "start": 14,
+              "url": "https://t.co/OJY44l7rJq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073661743889568110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073573027661623416",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽这个是真的吗 等我试试 https://t.co/OJY44l7rJq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759525317692297216",
+        "conversation_id": "2073543886400901327",
+        "created_at": "2026-07-05T01:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T02:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073573027661623416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054912328978817024",
+              "start": 0,
+              "username": "Nauseous_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073573027661623416",
+        "in_reply_to_user_id": "2054912328978817024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 180,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073543886400901327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nauseous_17 最简单合法玩幻觉的就是闭黑关，非常成熟且无数人验证了两千多年的方法，佛教的根源技艺。\n\n双盘坐姿麻痹下肢感官，暗室隔绝视觉感觉，木质香稳定嗅觉感官，耳塞隔绝听觉。\n\n正常情况下保持 3-5 小时脑内 DMT 一上来内幻就直接飞上天外天了，毫无操作门槛。\n\n睡眠剥夺这种危险行为还是少干。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "第二账号 随缘回fo啦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/AjBpCjFKeY"
+              }
+            ]
+          }
+        },
+        "id": "2054912328978817024",
+        "location": "Hopelessly free",
+        "name": "十七Nauseous",
+        "pinned_tweet_id": "2055265228334739510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067675245201563648/LId8p_ka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 110,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 190
+        },
+        "url": "https://t.co/AjBpCjFKeY",
+        "username": "Nauseous_17",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T10:29:14.000Z",
+        "description": "害羞幽靈v2. Husband with 2 cats. コイン&お札収集",
+        "id": "1759525317692297216",
+        "location": "Japan",
+        "name": "Fv.ik",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002226544237010944/mUkAMzAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 170,
+          "like_count": 2158,
+          "listed_count": 9,
+          "media_count": 247,
+          "tweet_count": 1090
+        },
+        "url": "",
+        "username": "efubiku",
+        "verified": true
+      }
+    ]
+  }
+}

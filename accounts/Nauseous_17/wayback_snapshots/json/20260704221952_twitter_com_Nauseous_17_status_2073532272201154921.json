@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054912328978817024",
+    "conversation_id": "2073387123085046041",
+    "created_at": "2026-07-04T22:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T23:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073532272201154921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823987651655127040",
+          "start": 0,
+          "username": "ookoukibob"
+        },
+        {
+          "end": 21,
+          "id": "2057729979677548544",
+          "start": 12,
+          "username": "Numiouoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073532272201154921",
+    "in_reply_to_user_id": "1823987651655127040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073438762991063459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ookoukibob @Numiouoo 已回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054912328978817024",
+        "conversation_id": "2073387123085046041",
+        "created_at": "2026-07-04T22:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T23:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073532272201154921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823987651655127040",
+              "start": 0,
+              "username": "ookoukibob"
+            },
+            {
+              "end": 21,
+              "id": "2057729979677548544",
+              "start": 12,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073532272201154921",
+        "in_reply_to_user_id": "1823987651655127040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073438762991063459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ookoukibob @Numiouoo 已回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823987651655127040",
+        "conversation_id": "2073387123085046041",
+        "created_at": "2026-07-04T16:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073438762991063459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054912328978817024",
+              "start": 0,
+              "username": "Nauseous_17"
+            },
+            {
+              "end": 22,
+              "id": "2057729979677548544",
+              "start": 13,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073438762991063459",
+        "in_reply_to_user_id": "2054912328978817024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073387123085046041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nauseous_17 @Numiouoo 吱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "第二账号 随缘回fo啦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/AjBpCjFKeY"
+              }
+            ]
+          }
+        },
+        "id": "2054912328978817024",
+        "location": "Hopelessly free",
+        "name": "十七Nauseous",
+        "pinned_tweet_id": "2055265228334739510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067675245201563648/LId8p_ka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 98,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 164
+        },
+        "url": "https://t.co/AjBpCjFKeY",
+        "username": "Nauseous_17",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T07:38:48.000Z",
+        "description": "O圈酱肘子｜伪娘享受者｜PDW编辑｜狂热の日麻雀士｜27fall Bass&Drum&Winds\nEnglish/中文OK  \n查成分互fo 不谈政治 不吸不贩 友跨顺 Telegram频道https://t.co/hCjhUdZOZv\n站点https://t.co/msb6Dyz0O4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ookoukibobchan…",
+                "end": 118,
+                "expanded_url": "https://t.me/ookoukibobchannel",
+                "start": 95,
+                "url": "https://t.co/hCjhUdZOZv"
+              },
+              {
+                "display_url": "psydrugs.org",
+                "end": 144,
+                "expanded_url": "http://psydrugs.org",
+                "start": 121,
+                "url": "https://t.co/msb6Dyz0O4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ookoukibob57851",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ookoukibob57851",
+                "start": 0,
+                "url": "https://t.co/e3w2WOHwQw"
+              }
+            ]
+          }
+        },
+        "id": "1823987651655127040",
+        "location": "Toshima-ku, Tokyo",
+        "name": "OokoukiBob",
+        "pinned_tweet_id": "1971912857026547937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010081830209241089/w8z8AzRj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 733,
+          "like_count": 1104,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 602
+        },
+        "url": "https://t.co/e3w2WOHwQw",
+        "username": "ookoukibob",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 952,
+          "like_count": 3270,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2488
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}
