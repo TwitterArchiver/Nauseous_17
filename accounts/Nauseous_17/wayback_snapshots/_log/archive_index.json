@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-12T09:50:05",
+  "last_updated": "2026-07-12T09:53:39",
   "html": {
     "https://web.archive.org/web/20260704111334if_/https://twitter.com/Nauseous_17/status/2073364590394818751": {
       "status": "done",
@@ -513,9 +513,9 @@
       "referenced_by": [
         "20260704130522_twitter_com_Nauseous_17_status_2073392728105160819.json"
       ],
-      "last_updated": "2026-07-12T09:42:21",
+      "last_updated": "2026-07-12T09:53:39",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260704130522/https://pbs.twimg.com/media/HMXwRsMbMAAllZF.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/media/HMFYa6ua4AAlgFA.jpg": {
       "status": "done",
