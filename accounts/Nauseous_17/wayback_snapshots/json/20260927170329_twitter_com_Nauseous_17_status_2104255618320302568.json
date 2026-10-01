@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104255603946504193"
+      ]
+    },
+    "author_id": "2054912328978817024",
+    "conversation_id": "2104255618320302568",
+    "created_at": "2026-09-27T17:03:29.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T18:03:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104255618320302568"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/obfOV0hgz4",
+          "end": 23,
+          "expanded_url": "https://x.com/Nauseous_17/status/2104255618320302568/photo/1",
+          "media_key": "3_2104255603946504193",
+          "start": 0,
+          "url": "https://t.co/obfOV0hgz4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104255618320302568",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2104255603946504193"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/obfOV0hgz4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 992,
+        "media_key": "3_2104255603946504193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTPRUq3bQAEDqkx.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104255603946504193"
+          ]
+        },
+        "author_id": "2054912328978817024",
+        "conversation_id": "2104255618320302568",
+        "created_at": "2026-09-27T17:03:29.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T18:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104255618320302568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/obfOV0hgz4",
+              "end": 23,
+              "expanded_url": "https://x.com/Nauseous_17/status/2104255618320302568/photo/1",
+              "media_key": "3_2104255603946504193",
+              "start": 0,
+              "url": "https://t.co/obfOV0hgz4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104255618320302568",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2104255603946504193"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/obfOV0hgz4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "是的我是十七 第二账号 随缘回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/AjBpCjFKeY"
+              }
+            ]
+          }
+        },
+        "id": "2054912328978817024",
+        "is_identity_verified": false,
+        "location": "Hopelessly free",
+        "most_recent_tweet_id": "2104255618320302568",
+        "name": "十七Nauseous",
+        "pinned_tweet_id": "2075194049733226855",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054912328978817024/1778864618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067675245201563648/LId8p_ka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 116,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 252
+        },
+        "url": "https://t.co/AjBpCjFKeY",
+        "username": "Nauseous_17",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
